@@ -77,6 +77,10 @@ textarea {
     resize: none;
 }
 
+#result{
+    margin-top:15px
+}
+
 
 
 /* Responsive Breakpoints */
